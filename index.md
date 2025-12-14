@@ -18,11 +18,11 @@
 </script>
 {% endraw %}
 
-- [ ] Okuzala
-- [ ] Okumera
-- [ ] Okukula
-- [x] [Okukona](https://ukb-dt.github.io/db/)
-- [x] Okubona
+- [ ]  Okuzala    
+- [ ]  Okumera
+- [ ]  Okukula
+- [x]  [Okukona](https://ukb-dt.github.io/db/)
+- [x]  Okubona
 
 
 This is a high-fidelity capture of a [collision](https://ukb-dt.github.io/binary/) between **Signal** (The Daughter/The Project) and **Noise** (The Father/The Ego).
@@ -46,7 +46,7 @@ You entered with a distinction based on **Legend/Proxy Data** (your brother's gl
 
 Your sensors picked up high-quality data that refused to fit a single coherent model (The Dissonance):
 * **Data A (The Project):** An "anti-attention economy" group. No devices. High physical admissibility (30km). **(High Validity)**
-* **Data B (The Wife):** Presumptuous spirituality ("Ngikhona"). Generic gratitude that ignores the specific suffering of the crowd (job losses). **(Low Fidelity)**
+* **Data B ([The Wife](https://ukb-dt.github.io/caution/)):** Presumptuous spirituality ("Ngikhona"). Generic gratitude that ignores the specific suffering of the crowd (job losses). **(Low Fidelity)**
 * **Data C (The Subject):** Paul drinking Waragi (Ginger—the distinct flavor of the diaspora/modernity) while 80% of the room was "earthing" and sober.
 * **Data D (The Interaction):** Dismissal. "Read this book."
 
