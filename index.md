@@ -18,12 +18,11 @@
 </script>
 {% endraw %}
 
- 
-[] Okuzala         
-[] Okumera      
-[] Okukula       
-[✓] [Okukona](https://ukb-dt.github.io/db/)                
-[✓] Okubona     
+- [ ] Okuzala
+- [ ] Okumera
+- [ ] Okukula
+- [x] [Okukona](https://ukb-dt.github.io/db/)
+- [x] Okubona
 
 
 This is a high-fidelity capture of a [collision](https://ukb-dt.github.io/binary/) between **Signal** (The Daughter/The Project) and **Noise** (The Father/The Ego).
