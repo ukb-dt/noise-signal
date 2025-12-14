@@ -1,4 +1,32 @@
-This is a high-fidelity capture of a collision between **Signal** (The Daughter/The Project) and **Noise** (The Father/The Ego).
+
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
+
+ 
+[] Okuzala         
+[] Okumera      
+[] Okukula       
+[✓] [Okukona](https://ukb-dt.github.io/db/)                
+[✓] Okubona     
+
+
+This is a high-fidelity capture of a [collision](https://ukb-dt.github.io/binary/) between **Signal** (The Daughter/The Project) and **Noise** (The Father/The Ego).
 
 You walked into a room scanning for **[Energy Invariance](https://ukb-dt.github.io/dt/)** (the anti-entropy of the explorer group) and instead encountered a high-amplitude **Status Display**.
 
